@@ -11,7 +11,7 @@
 В этой папке запустите index.html файл.
 Этот интерфейс должен открыться в вашем веб-браузере:
 ```
-<img width="736" alt="image" src="https://user-images.githubusercontent.com/58044383/173680980-f55a6e42-62b3-4823-97c2-9786102e2d54.png">
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/58044383/173697470-c82283ad-f385-4df5-a486-be94ff4ebccd.png">
 
  - Вы можете попрактиковаться, если введете свой логин в поле
  - Или вы можете попробовать версию "экзамен", если оставите поле пустым.

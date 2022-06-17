@@ -139,7 +139,19 @@ IP-адрес `196.32.12.254/30`
 </details>
 <details>
 <summary>Level 9</summary>
+ Эту задачу можно решить тремя способами.
+ Первый:
+ 
 <img width="980" alt="image" src="https://user-images.githubusercontent.com/58044383/174407778-29e9091b-5bd0-430b-8aa2-135f768de78b.png">
+Второй:
+ <img width="1101" alt="image" src="https://user-images.githubusercontent.com/58044383/174408963-fc373b70-b5e7-4162-8eff-602166a300d1.png">
+ 
+В поле `internet` изменили маску с `/0`на `/24` и указали обе сети `22.22.22.0 и 77.77.77.0`.
+Третий:
+ 
+ <img width="1100" alt="image" src="https://user-images.githubusercontent.com/58044383/174409181-ebfa4035-a01f-46b3-988b-a83324e9d624.png">
+ 
+Раздаем интернет на сеть `77.77.77.0` с маской `/24` и используя на всю сеть один IP-адрес с помоцью маски разбиваем сеть на подсети. 
 </details>
 <details>
 <summary>Level 10</summary>

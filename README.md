@@ -1,8 +1,12 @@
 # NetPractice
 
 ## Цель данного проекта научиться  настривать межсетевые подключения между компьютерами.
+
+<details>
+<summary>Описание</summary>
+ 
 [subject](https://github.com/luta-wolf/NetPractice/blob/master/subject/en.subject.pdf)
-### Описание
+
 Вам придется настроить небольшие сети. Для этого необходимо будет понять, как работает TCP/IP-адресация.
 Вам нужно будет пройти 10 уровней (т.е. 10 упражнений) и включить их в свой Git репозиторий.
 
@@ -43,14 +47,21 @@
 ### Защита
 - Во время защиты вам нужно будет пройти 3 случайных уровня, как указано на тренинг-платформа за 15 минут.
 - Вам не разрешается использовать внешние инструменты во время оценки. (Использование простого калькулятора допустимо).
+</details>
 
 
 
 
 
-
-## Полезные материалы
+<details>
+<summary>Полезные материалы</summary>
+ 
 1) Почитать подробнее можно [здесь](https://github.com/evgenkarlson/ALL_SCHOOL_42/blob/master/00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/02____netwhat/answers_to_netwhat.md).
-2) Лекция по [маршрутизации](https://www.youtube.com/watch?v=kZqqk1tixfk&ab_channel=AndreySozykin), подробный курс лекций по [компьютерным сетям](https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&ab_channel=AndreySozykin).
+2) Таблица соответствия [масок подсетей](https://www.gotoadm.ru/table-subnet-masks/).
+3) IP [калькулятор](https://ip-calculator.ru/#!ip=192.168.114.253/30).
+4) Лекция по [маршрутизации](https://www.youtube.com/watch?v=kZqqk1tixfk&ab_channel=AndreySozykin)
+5) Лекция по [TCP/IP](https://www.youtube.com/watch?v=rLUzYeLdM0k&ab_channel=HillelITSchool).
+6) Подробный курс лекций по [компьютерным сетям](https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&ab_channel=AndreySozykin).
+</details>
 
 ### Если я вам помог, ставьте звездочку)

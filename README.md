@@ -105,4 +105,46 @@ IP-адрес `196.32.12.254/30`
 + Подробный курс лекций по [компьютерным сетям](https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&ab_channel=AndreySozykin).
 </details>
 
+<details>
+<summary>Level 1</summary>
+<img width="978" alt="image" src="https://user-images.githubusercontent.com/58044383/174407429-69ecba41-db3a-429e-8724-84ee35ce3ee7.png">
+</details>
+<details>
+<summary>Level 2</summary>
+<img width="982" alt="image" src="https://user-images.githubusercontent.com/58044383/174407448-e31f8481-cfd9-4111-b25d-c552c1aff4c4.png">
+</details>
+<details>
+<summary>Level 3</summary>
+<img width="982" alt="image" src="https://user-images.githubusercontent.com/58044383/174407487-af6354f0-a053-430d-8160-6ccfcadcf554.png">
+</details>
+<details>
+<summary>Level 4</summary>
+<img width="979" alt="image" src="https://user-images.githubusercontent.com/58044383/174407508-11d03209-1e58-43cf-87d5-ed7160eacb1c.png">
+</details>
+<details>
+<summary>Level 5</summary>
+<img width="982" alt="image" src="https://user-images.githubusercontent.com/58044383/174407545-f132674e-1499-4424-99d4-50ac18532e67.png">
+</details>
+<details>
+<summary>Level 6</summary>
+<img width="978" alt="image" src="https://user-images.githubusercontent.com/58044383/174407570-1da7239d-5f23-48a5-b02a-ae5b28a96333.png">
+</details>
+<details>
+<summary>Level 7</summary>
+<img width="979" alt="image" src="https://user-images.githubusercontent.com/58044383/174407637-5337c20a-619e-4411-92f2-2f0497e31d69.png">
+</details>
+<details>
+<summary>Level 8</summary>
+<img width="981" alt="image" src="https://user-images.githubusercontent.com/58044383/174407713-07d0e666-fd2d-4a5b-8296-143c88487e00.png">
+</details>
+<details>
+<summary>Level 9</summary>
+<img width="980" alt="image" src="https://user-images.githubusercontent.com/58044383/174407778-29e9091b-5bd0-430b-8aa2-135f768de78b.png">
+</details>
+<details>
+<summary>Level 10</summary>
+<img width="982" alt="image" src="https://user-images.githubusercontent.com/58044383/174407805-e7680d91-57c6-45b1-8335-f10fd540801d.png">
+</details>
+
+
 ### Если я вам помог, ставьте звездочку)

@@ -103,39 +103,58 @@ IP-адрес `196.32.12.254/30`
 + Лекция по [маршрутизации](https://www.youtube.com/watch?v=kZqqk1tixfk&ab_channel=AndreySozykin).
 + Лекция по [TCP/IP](https://www.youtube.com/watch?v=rLUzYeLdM0k&ab_channel=HillelITSchool).
 + Подробный курс лекций по [компьютерным сетям](https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&ab_channel=AndreySozykin).
+ 
+P.S. При составлении материала пользовался работами [Sglossu](https://github.com/Sglossu/NetPractice), [divinepet](https://divinepet.github.io/NetPractice/) и [F@nzil](https://github.com/ifanzilka/NetPractice)
 </details>
 
 <details>
 <summary>Level 1</summary>
 <img width="978" alt="image" src="https://user-images.githubusercontent.com/58044383/174407429-69ecba41-db3a-429e-8724-84ee35ce3ee7.png">
+ или
+ <img width="1401" alt="image" src="https://user-images.githubusercontent.com/58044383/174454794-982d626d-7c8e-4739-ac11-8fe0bad20196.png">
 </details>
 <details>
 <summary>Level 2</summary>
 <img width="982" alt="image" src="https://user-images.githubusercontent.com/58044383/174407448-e31f8481-cfd9-4111-b25d-c552c1aff4c4.png">
+ или
+ <img width="1322" alt="image" src="https://user-images.githubusercontent.com/58044383/174454831-bc71131b-2c99-4496-996d-e2324111772b.png">
 </details>
 <details>
 <summary>Level 3</summary>
 <img width="982" alt="image" src="https://user-images.githubusercontent.com/58044383/174407487-af6354f0-a053-430d-8160-6ccfcadcf554.png">
+ или
+ <img width="1171" alt="image" src="https://user-images.githubusercontent.com/58044383/174454872-ce1a0d07-327a-4bf4-b700-d6180e007289.png">
 </details>
 <details>
 <summary>Level 4</summary>
 <img width="979" alt="image" src="https://user-images.githubusercontent.com/58044383/174407508-11d03209-1e58-43cf-87d5-ed7160eacb1c.png">
+ или
+ <img width="1247" alt="image" src="https://user-images.githubusercontent.com/58044383/174454889-483c1419-688d-48a3-b113-88e7bb2a89b4.png">
 </details>
 <details>
 <summary>Level 5</summary>
 <img width="982" alt="image" src="https://user-images.githubusercontent.com/58044383/174407545-f132674e-1499-4424-99d4-50ac18532e67.png">
+ или
+ <img width="1202" alt="image" src="https://user-images.githubusercontent.com/58044383/174454905-952df831-eb9a-47ba-b6db-a16bdadd3b70.png">
 </details>
 <details>
 <summary>Level 6</summary>
 <img width="978" alt="image" src="https://user-images.githubusercontent.com/58044383/174407570-1da7239d-5f23-48a5-b02a-ae5b28a96333.png">
+ или
+ <img width="1329" alt="image" src="https://user-images.githubusercontent.com/58044383/174454922-e4a535da-6da4-4aec-84e6-3a9bc7ef3b83.png">
 </details>
 <details>
 <summary>Level 7</summary>
 <img width="979" alt="image" src="https://user-images.githubusercontent.com/58044383/174407637-5337c20a-619e-4411-92f2-2f0497e31d69.png">
+ или
+ <img width="1330" alt="image" src="https://user-images.githubusercontent.com/58044383/174454963-2a5b637e-c00c-44d3-be13-e5d88307c8ff.png">
 </details>
 <details>
 <summary>Level 8</summary>
 <img width="981" alt="image" src="https://user-images.githubusercontent.com/58044383/174407713-07d0e666-fd2d-4a5b-8296-143c88487e00.png">
+ или
+ <img width="1331" alt="image" src="https://user-images.githubusercontent.com/58044383/174454978-476453a2-c3ef-45c1-8e42-768fe3316386.png">
+
 </details>
 <details>
 <summary>Level 9</summary>
@@ -159,10 +178,16 @@ IP-адрес `196.32.12.254/30`
  + Оставшийся доступный диапазон `77.77.77.129 - 77.77.77.250`
  + Для компьютера `cation` выбираем маску `255.255.255.192` (она же `/26`) и выбираем из диапазона `77.77.77.129 - 77.77.77.191` любые два номера.
  
+ или
+ 
+ <img width="1161" alt="image" src="https://user-images.githubusercontent.com/58044383/174454990-d4f47af6-344e-4e9c-93e0-8d9be9afa920.png">
 </details>
 <details>
 <summary>Level 10</summary>
 <img width="982" alt="image" src="https://user-images.githubusercontent.com/58044383/174407805-e7680d91-57c6-45b1-8335-f10fd540801d.png">
+ или
+ <img width="1276" alt="image" src="https://user-images.githubusercontent.com/58044383/174455007-25f76134-d501-4331-8628-bb9da5078696.png">
+
 </details>
 
 
